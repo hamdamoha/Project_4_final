@@ -6,6 +6,8 @@ The aim of the project was to utilise a number of Machine Learning techniques on
 
 
 Methodology (to be re-written)
+
+
 Establish a baseline method using logistic regression
 Use 3 - 4 other methods to compare accuracy for this data set.
 Show visualisations of individual methods and comparison between techniques.
