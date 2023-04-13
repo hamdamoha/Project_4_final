@@ -17,12 +17,19 @@ Summarise and conclude
 Results
 
 Structure of presentation
-intro to project (see intro above)
+
+
+intro to project (see introduction above)
 dataset as received, examination that took place, what we found (include visualisations)
-outcome of dataexamination i.e. we decided to investigate with and without zero's
+outcome of data examination i.e. we decided to investigate with and without zero's
 
 
-Analysis of the various techniques with a summary table
+Analysis of the various techniques (each produce slides for their section)
+Hamda
+Prescila
+Rizwan
+Simon
+
 
 
 Conclusion
