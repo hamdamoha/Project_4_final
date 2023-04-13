@@ -9,7 +9,7 @@ Introduction
 ![machine-learning_2](https://user-images.githubusercontent.com/115951034/231830394-1805fb54-c546-47e5-804c-109f1c6950a5.jpg)
 
 
-## <a id="Goal-header"></a><ins>Introduction</ins>
+## <a id="Introduction-header"></a><ins>Introduction</ins>
 >>>>>>> main
 
 The aim of the project was to utilise a number of Machine Learning techniques on a medical dataset to determine which techniques are most successful in terms of model accuracy. The dataset chosen was that of a survey of Native American Prima Indian females. 
@@ -18,7 +18,7 @@ The aim of the project was to utilise a number of Machine Learning techniques on
 <<<<<<< patch-1
 Methodology (to be re-written)
 =======
-## <a id="Goal-header"></a><ins>Methodology</ins>
+## <a id="Methodology-header"></a><ins>Methodology</ins>
 >>>>>>> main
 
 Establish a baseline method using logistic regression
@@ -28,9 +28,9 @@ Summarise and conclude
 
 
 <<<<<<< patch-1
-Results
+## <a id="Results-header"></a><ins>Results</ins>
 
-Structure of presentation
+## <a id="Structure-of-presentation-header"></a><ins>Structure of presentation</ins>
 
 
 intro to project (see introduction above)
@@ -52,7 +52,7 @@ Conclusion
 bullet point conclusions on the findings
 
 =======
-## <a id="Goal-header"></a><ins>Results</ins>
+## <a id="Results-header"></a><ins>Results</ins>
 
 Structure of presentation
 intro to project (see intro above)
@@ -60,10 +60,10 @@ dataset as received, examination that took place, what we found (include visuali
 outcome of dataexamination i.e. we decided to investigate with and without zero's
 
 
- ## <a id="Goal-header"></a><ins>Analysis of the various techniques with a summary table</ins>
+ ## <a id="Anaylysis-header"></a><ins>Analysis of the various techniques with a summary table</ins>
 
 
-## <a id="Goal-header"></a><ins>Conclusion</ins>
+## <a id="Conclusion-header"></a><ins>Conclusion</ins>
 
 
 bullet point conclusions on the findings
