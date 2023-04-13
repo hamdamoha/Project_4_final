@@ -9,7 +9,7 @@
 The aim of the project was to utilise a number of Machine Learning techniques on a medical dataset to determine which techniques are most successful in terms of model accuracy. The dataset chosen was that of a survey of Native American Prima Indian females. 
 
 
-Methodology (to be re-written)
+## <a id="Goal-header"></a><ins>Methodology</ins>
 
 Establish a baseline method using logistic regression
 Use 3 - 4 other methods to compare accuracy for this data set.
@@ -17,7 +17,7 @@ Show visualisations of individual methods and comparison between techniques.
 Summarise and conclude
 
 
-Results
+## <a id="Goal-header"></a><ins>Results</ins>
 
 Structure of presentation
 intro to project (see intro above)
@@ -25,10 +25,10 @@ dataset as received, examination that took place, what we found (include visuali
 outcome of dataexamination i.e. we decided to investigate with and without zero's
 
 
-Analysis of the various techniques with a summary table
+ ## <a id="Goal-header"></a><ins>Analysis of the various techniques with a summary table</ins>
 
 
-Conclusion
+## <a id="Goal-header"></a><ins>Conclusion</ins>
 
 
 bullet point conclusions on the findings
