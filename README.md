@@ -1,6 +1,9 @@
 # Project_4
 ## A Comparison of Machine Learning Methods on a Medical Dataset: Predicting Diabetes 
 
+<
+Introduction 
+=======
 
 ![machine-learning_2](https://user-images.githubusercontent.com/115951034/231836799-cdd4e8bc-2e89-4d00-bb46-93ddf858c6d2.jpg)
 
@@ -9,9 +12,40 @@
 ## <a id="Introduction-header"></a><ins>Introduction</ins>
 
 
+
 The aim of the project was to utilise a number of Machine Learning techniques on a medical dataset to determine which techniques are most successful in terms of model accuracy. The dataset chosen was that of a survey of Native American Prima Indian females. 
 
 
+
+Methodology (to be re-written)
+
+Establish a baseline method using logistic regression
+Use 3 - 4 other methods to compare accuracy for this data set.
+Show visualisations of individual methods and comparison between techniques.
+Summarise and conclude
+
+
+Results
+
+Structure of presentation
+
+
+intro to project (see introduction above)
+dataset as received, examination that took place, what we found (include visualisations)
+outcome of data examination i.e. we decided to investigate with and without zero's
+
+
+Analysis of the various techniques (each produce slides for their section)
+Hamda
+Prescila
+Rizwan
+Simon
+
+
+
+Conclusion
+
+=======
 
 ## <a id="Methodology-header"></a><ins>Methodology</ins>
 
@@ -42,6 +76,7 @@ The aim of the project was to utilise a number of Machine Learning techniques on
 
 
 ## <a id="Conclusion-header"></a><ins>Conclusion</ins>
+
 
 bullet point conclusions on the findings
 
