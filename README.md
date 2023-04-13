@@ -4,7 +4,7 @@
 ![machine-learning_2](https://user-images.githubusercontent.com/115951034/231830394-1805fb54-c546-47e5-804c-109f1c6950a5.jpg)
 
 
-Introduction 
+## <a id="Goal-header"></a><ins>Introduction</ins>
 
 The aim of the project was to utilise a number of Machine Learning techniques on a medical dataset to determine which techniques are most successful in terms of model accuracy. The dataset chosen was that of a survey of Native American Prima Indian females. 
 
