@@ -1,4 +1,3 @@
-# Project_4_final
 # Project_4
 ## A Comparison of Machine Learning Methods on a Medical Dataset: Predicting Diabetes 
 
