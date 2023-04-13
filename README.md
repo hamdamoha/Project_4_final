@@ -16,19 +16,17 @@ The aim of the project was to utilise a number of Machine Learning techniques on
 ## <a id="Methodology-header"></a><ins>Methodology</ins>
 
 
-
-Establish a baseline method using logistic regression
-Use 3 - 4 other methods to compare accuracy for this data set.
-Show visualisations of individual methods and comparison between techniques.
-Summarise and conclude
-
+* Establish a baseline method using logistic regression
+* Use 3 - 4 other methods to compare accuracy for this data set.
+* Show visualisations of individual methods and comparison between techniques.
+* Summarise and conclude
 
 
 ## <a id="Structure-of-presentation-header"></a><ins>Structure of presentation</ins>
 
-intro to project (see introduction above)
-dataset as received, examination that took place, what we found (include visualisations)
-outcome of data examination i.e. we decided to investigate with and without zero's
+* Intro to project (see introduction above)
+* dataset as received, examination that took place, what we found (include visualisations)
+* outcome of data examination i.e. we decided to investigate with and without zero's
 
 
  ## <a id="Anaylysis-header"></a><ins>Analysis of the various techniques with a summary table</ins>
@@ -45,8 +43,5 @@ outcome of data examination i.e. we decided to investigate with and without zero
 
 ## <a id="Conclusion-header"></a><ins>Conclusion</ins>
 
-## <a id="Conclusion-header"></a><ins>Conclusion</ins>
-
-
 bullet point conclusions on the findings
->>>>>>> main
+
