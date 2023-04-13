@@ -32,10 +32,10 @@ outcome of data examination i.e. we decided to investigate with and without zero
 
 
  ## <a id="Anaylysis-header"></a><ins>Analysis of the various techniques with a summary table</ins>
-Hamda
-Prescila
-Rizwan
-Simon
+* Hamda
+* Prescila
+* Rizwan
+* Simon
 
 
 
