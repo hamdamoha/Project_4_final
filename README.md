@@ -2,9 +2,6 @@
 ## A Comparison of Machine Learning Methods on a Medical Dataset: Predicting Diabetes 
 
 
-Introduction 
-=======
-
 ![machine-learning_2](https://user-images.githubusercontent.com/115951034/231836799-cdd4e8bc-2e89-4d00-bb46-93ddf858c6d2.jpg)
 
 
