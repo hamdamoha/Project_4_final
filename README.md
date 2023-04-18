@@ -10,7 +10,7 @@
 
 
 
-The aim of the project was to utilise a number of Machine Learning techniques on a medical dataset to determine which techniques are most successful in terms of model accuracy. The dataset chosen was that of a survey of Native American Prima Indian females. 
+The aim of the project was to utilise a number of Machine Learning techniques on a medical dataset to determine which techniques are most successful in terms of model accuracy. The dataset chosen was that of a survey of Native American Prima Indian females. The goal was therefore to solve a classification problem to predict liklihood of a diabetes diagnosis. 
 
 
 ##  <a id="ProjectManagement-header"></a><ins>Project and Resource Management</ins>
