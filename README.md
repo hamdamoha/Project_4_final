@@ -47,11 +47,23 @@ The data itself contained a significant numbers of zeros that were possible pres
 
 ## <a id="Database-Management"></a><ins>Database Management</ins>
 
-The data input was in the form of a csv file. An sql file was created from the data using python code in a jupyter notebook using sqlite. The files are located in this repositry in a directory called ...............
+The data input was in the form of a csv file. An sql file was created from the data using python code in a jupyter notebook using sqlite. The files are located in this repositry in a directory called SQL management.
 
 
 ## <a id="Conclusion-header"></a><ins>Conclusion</ins>
 
 
-bullet point conclusions on the findings - 
+The examination of the two datasets (with and without zero’s) has shown that in nearly all cases removal of the zero’s gave a more accurate model, therefore indicating that it is likely they are rogue zeros.
+
+The above highlights importance of interrogating and understanding the data before analysis.
+
+The tuning techniques (Keras and TPOT) give improved accuracy over manually selected values.
+
+The random forest gave the best model accuracy for the manually tested machine learning models on this dataset.
+
+TPOT also found that the Random Forest gave the best performance on this dataset and improved the accuracy by optimising the factor settings. 
+
+Recall is very important as we want to achieve as accurate results as possible, and the way in doing so is trying to bring the FN number down as low as possible.
+![image](https://user-images.githubusercontent.com/113118793/232715686-0c6b223b-669f-413d-b32f-d152f4cefd3d.png)
+
 
