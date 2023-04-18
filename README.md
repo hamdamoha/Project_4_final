@@ -50,6 +50,13 @@ In addition to the resource and timing issues mentioned above, the biggest chall
 
 The data itself contained a significant numbers of zeros that were possible present in place of no readings. However the challenge was to determine if there were some values that were indeed numerically equal to zero. In order to mitigate the risk it was decided to incorporate the two conditions in our analysis of the data and to evaluate modelling performance on two datasets, containing zeroes and with zeroes removed. 
 
+Steps in cleaning the data
+<img width="835" alt="Screenshot 2023-04-18 at 15 50 59" src="https://user-images.githubusercontent.com/115951034/232816400-3dd31441-42d5-4d2a-8702-8400b45efed8.png">
+
+<img width="474" alt="Screenshot 2023-04-18 at 15 51 07" src="https://user-images.githubusercontent.com/115951034/232816436-3ca2606c-7500-48b7-8d3d-d240b30c4b18.png">
+
+<img width="839" alt="Screenshot 2023-04-18 at 15 51 15" src="https://user-images.githubusercontent.com/115951034/232816463-862d8452-b23d-48e5-ae1a-26dea2c58f7d.png">
+
 
  ## <a id="Database-Management"></a><ins>Database Management</ins>
 
