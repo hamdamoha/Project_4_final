@@ -13,7 +13,10 @@
 The aim of the project was to utilise a number of Machine Learning techniques on a medical dataset to determine which techniques are most successful in terms of model accuracy. The dataset chosen was that of a survey of Native American Prima Indian females. 
 
 
-## <a id="Methodology-header"></a><ins>Project / Resource Management</ins>
+##  Resource Management
+
+
+Recognising the timesclae and finite resources at our disposal, a project timing plan was produced to ensure the team remained focussed and co-ordinated to meet the requirements of the project and the presentation date. 
 
 
 
@@ -21,7 +24,7 @@ The aim of the project was to utilise a number of Machine Learning techniques on
 
 
 * Interrogate and understand the dataset
-* Show visualisations to highlight characterisitics of the dataset
+* Show visualisations to highlight understanding of the characteristics of the dataset
 * Establish a baseline method using logistic regression
 * Use other Machine Learning techniques to compare accuracy for this data set.
 * Record results of individual methods and then compare all techniques investigated.
