@@ -47,6 +47,7 @@ The data itself contained a significant numbers of zeros that were possible pres
 
 ## <a id="Database-Management"></a><ins>Database Management</ins>
 
+The data input was in the form of a csv file. An sql file was created from the data using python code in a jupyter notebook using sqlite. The files are located in this repositry in a directory called ...............
 
 
 ## <a id="Conclusion-header"></a><ins>Conclusion</ins>
