@@ -45,6 +45,11 @@ The data itself contained a significant numbers of zeros that were possible pres
 The data input was in the form of a csv file. An sql file was created from the data using python code in a jupyter notebook using sqlite. The files are located in this repository in a directory called SQL management. This will enable other researchers the option of using an SQL database to research the data.
 
 
+ ## <a id="Code Files"></a><ins>Code Files</ins>
+
+The code used to process the data is contained in Jupyter notebook files in this repository. For the neural network (keras tuner) and TPOT analysis, Google Colaboratory was utilied and the files are in the directory named Colaboratory.
+
+
 ## <a id="Results-header"></a><ins>Results</ins>
 
 (the reader is directed to the powerpoint presentation in this repository named "ML_Project_Presentation_Master" for full details of results.) 
