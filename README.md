@@ -39,7 +39,6 @@ In addition to the resource and timing issues mentioned above, the biggest chall
 
 The data itself contained a significant numbers of zeros that were possible present in place of no readings. However the challenge was to determine if there were some values that were indeed numerically equal to zero. In order to mitigate the risk it was decided to incorporate the two conditions in our analysis of the data and to evaluate modelling performance on two datasets, containing zeroes and with zeroes removed. 
 
-
  
 
 ## <a id="Results-header"></a><ins>Results</ins>
