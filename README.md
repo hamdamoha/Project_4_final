@@ -47,7 +47,7 @@ The data input was in the form of a csv file. An sql file was created from the d
 
  ## <a id="Code Files"></a><ins>Code Files</ins>
 
-The code used to process the data is contained in Jupyter notebook files in this repository. For the neural network (keras tuner) and TPOT analysis, Google Colaboratory was utilied and the files are in the directory named Colaboratory_Files. Please use the 1-Read_Me.txt file for information prior to processing.
+The code used to process the data is contained in Jupyter notebook files in this repository. For the neural network (keras tuner) and TPOT analysis, Google Colaboratory was utilised and the files are in the directory named Colaboratory_Files. Please use the 1-Read_Me.txt file for information prior to processing.
 
 
 ## <a id="Results-header"></a><ins>Results</ins>
