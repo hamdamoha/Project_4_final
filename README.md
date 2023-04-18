@@ -76,7 +76,7 @@ The code used to process the data is contained in Jupyter notebook files in this
 ![image](https://user-images.githubusercontent.com/113118793/232738882-8518c37e-683a-4d05-ae2c-35a7cb83e0d9.png)
 
 
-## <a id="Conclusion-header"></a><ins>Conclusions</ins>
+## <a id="Conclusion-header"></a><ins>Conclusion</ins>
 
 
 The examination of the two datasets (with and without zero’s) has shown that in nearly all cases removal of the zero’s gave a more accurate model, therefore indicating that it is likely they are rogue zeros.
