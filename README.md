@@ -13,11 +13,13 @@
 The aim of the project was to utilise a number of Machine Learning techniques on a medical dataset to determine which techniques are most successful in terms of model accuracy. The dataset chosen was that of a survey of Native American Prima Indian females. 
 
 
-##  <a id="ProjectManagement-header"></a><ins>Resource Management</ins>
+##  <a id="ProjectManagement-header"></a><ins>Project and Resource Management</ins>
 
 
 Recognising the timesclae and finite resources at our disposal, a project timing plan was produced to ensure the team remained focussed and co-ordinated to meet the requirements of the project and the presentation date. 
 
+
+![image](https://user-images.githubusercontent.com/113118793/232701397-f998eb11-c7c4-4643-865e-ba52314d6c84.png)
 
 
 ## <a id="Methodology-header"></a><ins>Methodology</ins>
