@@ -39,7 +39,11 @@ In addition to the resource and timing issues mentioned above, the biggest chall
 
 The data itself contained a significant numbers of zeros that were possible present in place of no readings. However the challenge was to determine if there were some values that were indeed numerically equal to zero. In order to mitigate the risk it was decided to incorporate the two conditions in our analysis of the data and to evaluate modelling performance on two datasets, containing zeroes and with zeroes removed. 
 
- 
+
+ ## <a id="Database-Management"></a><ins>Database Management</ins>
+
+The data input was in the form of a csv file. An sql file was created from the data using python code in a jupyter notebook using sqlite. The files are located in this repository in a directory called SQL management. This will enable other researchers the option of using an SQL database to research the data.
+
 
 ## <a id="Results-header"></a><ins>Results</ins>
 
@@ -47,12 +51,6 @@ The data itself contained a significant numbers of zeros that were possible pres
 
 
 ![image](https://user-images.githubusercontent.com/113118793/232718487-dc327f56-b4d9-467c-b684-5aebae9f91cc.png)
-
-
-
-## <a id="Database-Management"></a><ins>Database Management</ins>
-
-The data input was in the form of a csv file. An sql file was created from the data using python code in a jupyter notebook using sqlite. The files are located in this repository in a directory called SQL management. This will enable other researchers the option of using an SQL database to research the data.
 
 
 ## <a id="Conclusion-header"></a><ins>Conclusions</ins>
