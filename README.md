@@ -5,6 +5,17 @@
 ![machine-learning_2](https://user-images.githubusercontent.com/115951034/231836799-cdd4e8bc-2e89-4d00-bb46-93ddf858c6d2.jpg)
 
 
+## <ins>Contents Page</ins>
+
+* [Introduction](#Introduction-header)
+* [Project Management](#Project-header)
+* [Methodology](#Methodology-header) 
+* [Challenges](#Challenges-header)
+* [Database Management](#Database-header)
+* [Code Files](#Code-header)
+* [Results](#Results-header)
+* [Conclusion](#Conclusion-header)
+
 
 ## <a id="Introduction-header"></a><ins>Introduction</ins>
 
