@@ -17,7 +17,7 @@ The aim of the project was to utilise a number of Machine Learning techniques on
 
 
 Recognising the timesclae and finite resources at our disposal, a project timing plan was produced to ensure the team remained focussed and co-ordinated to meet the requirements of the project and the presentation date. 
-
+(click on image)
 
 ![image](https://user-images.githubusercontent.com/113118793/232701397-f998eb11-c7c4-4643-865e-ba52314d6c84.png)
 
@@ -37,14 +37,15 @@ Recognising the timesclae and finite resources at our disposal, a project timing
 
 In addition to the resource and timing issues mentioned above, the biggest challenge the team encountered was understanding the data as received. The decision was made to maximise our understanding of the nature of the data before proceeding with the machine learning techniques to be applied. In this way it was felt that we would provide a more validated result set with associated conclusions.
 
-The data itself contained a significant numbers of zeros that were possible present in place of no readings. However the challenge was to determine if there were some values that were indeed numerically equal to zero. In order to mitigate the risk it was decided to incorporate the two conditions in our analysis of the data and to evaluate modelling performance on two datasets containg zeroes and with zeroes removed. 
+The data itself contained a significant numbers of zeros that were possible present in place of no readings. However the challenge was to determine if there were some values that were indeed numerically equal to zero. In order to mitigate the risk it was decided to incorporate the two conditions in our analysis of the data and to evaluate modelling performance on two datasets, containing zeroes and with zeroes removed. 
 
 
- ## <a id="Anaylysis-header"></a><ins>Analysis of the various techniques with a summary table</ins>
-
-
+ 
 
 ## <a id="Results-header"></a><ins>Results</ins>
+
+
+## <a id="Database-Management"></a><ins>Database Management</ins>
 
 
 
