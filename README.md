@@ -26,7 +26,7 @@ Recognising the timescale and finite resources at our disposal, a project timing
 
 
 * Interrogate and understand the dataset
-* Show visualisations to highlight understanding of the characteristics of the dataset
+* Show visualisations to highlight our understanding of the characteristics of the dataset
 * Establish a "baseline method" using logistic regression
 * Use other Machine Learning techniques to compare accuracy for this data set.
 * Record results of individual methods and then compare all techniques investigated.
