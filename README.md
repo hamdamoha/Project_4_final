@@ -55,7 +55,7 @@ The data itself contained a significant numbers of zeros that were possible pres
 The data input was in the form of a csv file. An sql file was created from the data using python code in a jupyter notebook using sqlite. The files are located in this repository in a directory called SQL management. This will enable other researchers the option of using an SQL database to research the data.
 
 
-## <a id="Conclusion-header"></a><ins>Conclusion</ins>
+## <a id="Conclusion-header"></a><ins>Conclusions</ins>
 
 
 The examination of the two datasets (with and without zero’s) has shown that in nearly all cases removal of the zero’s gave a more accurate model, therefore indicating that it is likely they are rogue zeros.
