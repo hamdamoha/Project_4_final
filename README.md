@@ -27,17 +27,17 @@ Recognising the timesclae and finite resources at our disposal, a project timing
 
 * Interrogate and understand the dataset
 * Show visualisations to highlight understanding of the characteristics of the dataset
-* Establish a baseline method using logistic regression
+* Establish a "baseline method" using logistic regression
 * Use other Machine Learning techniques to compare accuracy for this data set.
 * Record results of individual methods and then compare all techniques investigated.
 * Summarise and conclude
 
 
-## <a id="Structure-of-presentation-header"></a><ins>Structure of presentation</ins>
+## <a id="Challenges"></a><ins>Challenges</ins>
 
-* Intro to project (see introduction above)
-* dataset as received, examination that took place, what we found (include visualisations)
-* outcome of data examination i.e. we decided to investigate with and without zero's
+In addition to the resource and timing issues mentioned above, the biggest challenge the team encountered was understanding the data as received. The decision was made to maximise our understanding of the nature of the data before proceeding with the machine learning techniques to be applied. In this way it was felt that we would provide a more validated result set with associated conclusions.
+
+The data itself contained a significant numbers of zeros that were possible present in place of no readings. However the challenge was to determine if there were some values that were indeed numerically equal to zero. In order to mitigate the risk it was decided to incorporate the two conditions in our analysis of the data and to evaluate modelling performance on two datasets containg zeroes and with zeroes removed. 
 
 
  ## <a id="Anaylysis-header"></a><ins>Analysis of the various techniques with a summary table</ins>
