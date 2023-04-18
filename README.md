@@ -43,6 +43,8 @@ The data itself contained a significant numbers of zeros that were possible pres
 
 ## <a id="Results-header"></a><ins>Results</ins>
 
+(the reader is directed to the powerpoint presentation in this Repository named ML_Project_Presentation_Master for full details of results.) 
+
 
 ![image](https://user-images.githubusercontent.com/113118793/232718487-dc327f56-b4d9-467c-b684-5aebae9f91cc.png)
 
