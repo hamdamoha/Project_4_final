@@ -45,9 +45,12 @@ The data itself contained a significant numbers of zeros that were possible pres
 ## <a id="Results-header"></a><ins>Results</ins>
 
 
+![image](https://user-images.githubusercontent.com/113118793/232717267-ee2f6b70-7c9d-41bd-ab60-484910703dcd.png)
+
+
 ## <a id="Database-Management"></a><ins>Database Management</ins>
 
-The data input was in the form of a csv file. An sql file was created from the data using python code in a jupyter notebook using sqlite. The files are located in this repositry in a directory called SQL management.
+The data input was in the form of a csv file. An sql file was created from the data using python code in a jupyter notebook using sqlite. The files are located in this repositry in a directory called SQL management. This will enable other researchers the option of using an SQL database to research the data.
 
 
 ## <a id="Conclusion-header"></a><ins>Conclusion</ins>
@@ -64,6 +67,7 @@ The random forest gave the best model accuracy for the manually tested machine l
 TPOT also found that the Random Forest gave the best performance on this dataset and improved the accuracy by optimising the factor settings. 
 
 Recall is very important as we want to achieve as accurate results as possible, and the way in doing so is trying to bring the FN number down as low as possible.
-![image](https://user-images.githubusercontent.com/113118793/232715686-0c6b223b-669f-413d-b32f-d152f4cefd3d.png)
+
+
 
 
